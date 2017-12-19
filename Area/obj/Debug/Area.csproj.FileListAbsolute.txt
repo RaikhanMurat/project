@@ -1,0 +1,21 @@
+C:\C# Visual Studio\Lab01\Area\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+C:\C# Visual Studio\Lab01\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\C# Visual Studio\Lab01\Area\Area\bin\Debug\Area.exe.config
+C:\C# Visual Studio\Lab01\Area\Area\bin\Debug\Area.exe
+C:\C# Visual Studio\Lab01\Area\Area\bin\Debug\Area.pdb
+C:\C# Visual Studio\Lab01\Area\Area\obj\Debug\Area.exe
+C:\C# Visual Studio\Lab01\Area\Area\obj\Debug\Area.pdb
+C:\Users\Adelina\source\repos\Area\Area\bin\Debug\Area.exe.config
+C:\Users\Adelina\source\repos\Area\Area\bin\Debug\Area.exe
+C:\Users\Adelina\source\repos\Area\Area\bin\Debug\Area.pdb
+C:\Users\Adelina\source\repos\Area\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+C:\Users\Adelina\source\repos\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\source\repos\Area\Area\obj\Debug\Area.exe
+C:\Users\Adelina\source\repos\Area\Area\obj\Debug\Area.pdb
+C:\Users\alser\Desktop\labs\lab1\Area\Area\bin\Debug\Area.exe.config
+C:\Users\alser\Desktop\labs\lab1\Area\Area\bin\Debug\Area.exe
+C:\Users\alser\Desktop\labs\lab1\Area\Area\bin\Debug\Area.pdb
+C:\Users\alser\Desktop\labs\lab1\Area\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+C:\Users\alser\Desktop\labs\lab1\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\alser\Desktop\labs\lab1\Area\Area\obj\Debug\Area.exe
+C:\Users\alser\Desktop\labs\lab1\Area\Area\obj\Debug\Area.pdb
