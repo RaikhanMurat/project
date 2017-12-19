@@ -20,6 +20,7 @@ namespace Area
                 p = p1 / 2;
                 a = p1 / 3;
                 s = Math.Sqrt(p*Math.Pow(p-a,3));
+                Console.WriteLine("Сейчас будет площадь");
                 Console.WriteLine("Сторона\tПлощадь");
                 Console.Write("{0:0.00}",a);
                 Console.WriteLine("\t{0:0.00}",s);
